@@ -144,6 +144,16 @@ I'm currently pursuing a Master's degree in **Information Systems Engineering (I
 
 **Additional tools and technologies:** Prisma, TypeORM, Hibernate, Flyway, REST APIs, gRPC, JUnit, Testcontainers, Jest, Supertest, Maven, Gradle.
 
+## GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaich&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=medaich&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
 ## Currently Focused On
 
 - Deepening my backend and software architecture knowledge.
